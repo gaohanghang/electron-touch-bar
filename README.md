@@ -1,4 +1,4 @@
-# 电子触摸条
+# electron-touch-bar
 
 一个小的演示电子应用程序，展示如何编程新的MacBook Pro的触摸条。
 
